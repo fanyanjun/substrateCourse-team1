@@ -1,0 +1,10 @@
+/Users/fanyanjun/rust/github.com/fanyanjun/substrateCourse-team1/learn4/structopt_cmd/target/debug/deps/libstructopt_derive-befbb422cac0a5eb.dylib: /Users/fanyanjun/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.9/src/lib.rs /Users/fanyanjun/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.9/src/attrs.rs /Users/fanyanjun/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.9/src/doc_comments.rs /Users/fanyanjun/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.9/src/parse.rs /Users/fanyanjun/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.9/src/spanned.rs /Users/fanyanjun/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.9/src/ty.rs
+
+/Users/fanyanjun/rust/github.com/fanyanjun/substrateCourse-team1/learn4/structopt_cmd/target/debug/deps/structopt_derive-befbb422cac0a5eb.d: /Users/fanyanjun/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.9/src/lib.rs /Users/fanyanjun/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.9/src/attrs.rs /Users/fanyanjun/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.9/src/doc_comments.rs /Users/fanyanjun/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.9/src/parse.rs /Users/fanyanjun/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.9/src/spanned.rs /Users/fanyanjun/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.9/src/ty.rs
+
+/Users/fanyanjun/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.9/src/lib.rs:
+/Users/fanyanjun/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.9/src/attrs.rs:
+/Users/fanyanjun/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.9/src/doc_comments.rs:
+/Users/fanyanjun/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.9/src/parse.rs:
+/Users/fanyanjun/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.9/src/spanned.rs:
+/Users/fanyanjun/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.9/src/ty.rs:

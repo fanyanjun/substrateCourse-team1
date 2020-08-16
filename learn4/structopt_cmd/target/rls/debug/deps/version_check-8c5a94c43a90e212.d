@@ -1,0 +1,10 @@
+/Users/fanyanjun/rust/github.com/fanyanjun/substrateCourse-team1/learn4/structopt_cmd/target/rls/debug/deps/version_check-8c5a94c43a90e212.rmeta: /Users/fanyanjun/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/lib.rs /Users/fanyanjun/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/version.rs /Users/fanyanjun/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/channel.rs /Users/fanyanjun/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/date.rs
+
+/Users/fanyanjun/rust/github.com/fanyanjun/substrateCourse-team1/learn4/structopt_cmd/target/rls/debug/deps/libversion_check-8c5a94c43a90e212.rlib: /Users/fanyanjun/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/lib.rs /Users/fanyanjun/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/version.rs /Users/fanyanjun/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/channel.rs /Users/fanyanjun/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/date.rs
+
+/Users/fanyanjun/rust/github.com/fanyanjun/substrateCourse-team1/learn4/structopt_cmd/target/rls/debug/deps/version_check-8c5a94c43a90e212.d: /Users/fanyanjun/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/lib.rs /Users/fanyanjun/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/version.rs /Users/fanyanjun/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/channel.rs /Users/fanyanjun/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/date.rs
+
+/Users/fanyanjun/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/lib.rs:
+/Users/fanyanjun/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/version.rs:
+/Users/fanyanjun/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/channel.rs:
+/Users/fanyanjun/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/date.rs:
