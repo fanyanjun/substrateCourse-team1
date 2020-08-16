@@ -1,5 +1,6 @@
 
 use structopt::StructOpt;
+use std::fmt;
 
 #[derive(Debug, StructOpt)]
 struct CliArgs {
@@ -11,6 +12,13 @@ struct CliArgs {
 
     #[structopt(subcommand)]   //子命令
     operation: Option<Ops>,
+}
+
+//自定义打印
+impl fmt::Display for CliArgs {
+    fn fmt(&self, f: &mut fmt::Formatter) -> fmt::Result {
+        write!(f, "owinship:{},debug:{},operation:{:#?}", self.owinship,self.debug,self.operation)
+    }
 }
 
 #[derive(Debug, StructOpt)]
@@ -29,7 +37,8 @@ fn main() {
     println!("Hello, substrate!");
 
     let opt = CliArgs::from_args();
-    println!("{:#?}", opt);
+
+    println!("自定义打印 Display: {}", opt);
 
     let isowinship = opt.owinship;
     if isowinship==true{
